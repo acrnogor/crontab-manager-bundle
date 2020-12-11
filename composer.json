@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.2",
         "q-alliance/crontab-manager": "^0.7",
-        "symfony/console": "^4.2"
+        "symfony/console": "^4.2|^5.0"
     },
     "require-dev": {
         "phpstan/phpstan": "^0.11"
